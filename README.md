@@ -1,16 +1,16 @@
-## Hi there 👋
+### Hej! I’m Frida.
 
-<!--
-**fridanordenlow/fridanordenlow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**👩‍💻 Frontend developer. 🎨 Textile artist. 📍 Stockholm-based.** 
 
-Here are some ideas to get you started:
+I build things for the web with a mix of logic and aesthetics. With a background in fine arts (MFA, Konstfack) and a newfound joy in web development, I used to build in fiber; now I build in code. Same creative brain, different tools. I have a sharp eye for design and a deep appreciation for clean, functional code—because, at its core, code is just another medium.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What I Bring
+- **🛠️ Tech & Tools**: JavaScript (ES6+), TypeScript, Vue.js, React, Pinia, Redux, Node.js, Git, Vite, Postman, Figma.
+- **🤝 Ways of Working**: Accessibility (a11y), Agile, Pair Programming.   
+- **🎭 Creative Edge**: Years of experience in visual arts and design, now applied to pixels instead of fibers.  
+
+### My Journey So Far
+I started coding in 2023 and quickly realized that writing code scratches the same itch as working with my physical art projects. It has similar creative outlets and challenges - problem-solving, structure, and creativity aren’t separate skills - they feed into each other. Currently studying Frontend Development at Medieinstitutet in Stockholm, graduating in 2026.
+
+### Let’s Talk!
+Currently looking for an internship in Stockholm, (LIA starting October 2025) where I can push my skills further, learn from experienced developers, and contribute to real projects. That said, I wouldn’t say no to the right job opportunity either — so if you think I’d be a good fit, let me know!
