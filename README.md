@@ -11,6 +11,3 @@ I build things for the web with a mix of logic and aesthetics. With a background
 
 ### My Journey So Far
 I started coding in 2023 and quickly realized that writing code scratches the same itch as working with my physical art projects. It has similar creative outlets and challenges - problem-solving, structure, and creativity aren’t separate skills - they feed into each other. Currently studying Frontend Development at Medieinstitutet in Stockholm, graduating in 2026.
-
-### Let’s Talk!
-Currently looking for an internship in Stockholm, (LIA starting October 2025) where I can push my skills further, learn from experienced developers, and contribute to real projects. That said, I wouldn’t say no to the right job opportunity either — so if you think I’d be a good fit, let me know!
