@@ -1,6 +1,6 @@
 ## Hej! I’m Frida.
 
-### **👩‍💻 Frontend Developer. 🎨 Textile Artist. 📍 Stockholm-based.** 
+### **👩‍💻 Frontend Developer. 🎨 Textile Artist. 📍 Stockholm.** 
 
 I build things for the web with a mix of logic and aesthetics. With a background in fine arts (MFA, Konstfack) and a newfound joy in web development, I used to build in fiber; now I build in code. Same creative brain, different tools. I have a sharp eye for design and a deep appreciation for clean, functional code—because, at its core, code is just another medium.
 
