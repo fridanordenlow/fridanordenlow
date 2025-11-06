@@ -14,4 +14,4 @@ I started coding in 2023 through completing the Technigo Web Development Boot Ca
   - **Frontend Development, Medieinstitutet, Stockholm** (Sep 2024 – May 2026)  
   - **Web Development Boot Camp, Technigo** (Jan – Jun 2023)  
   - **MFA in Fine Arts (Textile), Konstfack, Stockholm** (Sep 2019 – Jun 2021)  
-- **🎨 Creative & Design Edge:** Translating visual and spatial design skills from textile art into digital interfaces.
+- **🎨 Creative & Design Edge:** Years of experience in visual arts and design, now applied to digital interfaces.
