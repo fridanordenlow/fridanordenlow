@@ -1,13 +1,17 @@
-## Hej! I’m Frida.
+# Hej! I’m Frida.  
+### 👩‍💻 Frontend Developer. 🎨 Textile Artist. 📍 Stockholm.
 
-### **👩‍💻 Frontend Developer. 🎨 Textile Artist. 📍 Stockholm.** 
+I build things for the web with a mix of logic and aesthetics. With a background in fine arts (MFA, Konstfack) and a growing joy for web development - I used to build in fiber; now I build in code. Same creative brain, different tools. I have a sharp eye for design and a deep appreciation for clean, DRY and clever code. Always eager to learn more and with web development, it's neverending.
 
-I build things for the web with a mix of logic and aesthetics. With a background in fine arts (MFA, Konstfack) and a newfound joy in web development, I used to build in fiber; now I build in code. Same creative brain, different tools. I have a sharp eye for design and a deep appreciation for clean, functional code—because, at its core, code is just another medium.
+I started coding in 2023 through completing the Technigo Web Development Boot Camp. I quickly realized that coding sparks the same curiosity and investigative mindset as working with previous physical projects did. Problem-solving, structure, and ideation feeds into each other. I'm currently studying Frontend Development at Medieinstitutet in Stockholm, graduating in 2026.
 
-### What I Bring
-- **🛠️ Tech & Tools**: JavaScript (ES6+), TypeScript, Vue.js, React, Pinia, Redux, Node.js, Git, Vite, Postman, Figma.
-- **🤝 Ways of Working**: Accessibility (a11y), Agile, Pair Programming.   
-- **🎭 Creative Edge**: Years of experience in visual arts and design, now applied to pixels instead of fibers.  
+## What I Bring
 
-### My Journey So Far
-I started coding in 2023 and quickly realized that writing code scratches the same itch as working with my physical art projects. It has similar creative outlets and challenges - problem-solving, structure, and creativity aren’t separate skills - they feed into each other. Currently studying Frontend Development at Medieinstitutet in Stockholm, graduating in 2026.
+- **💻 Frontend Development:** JavaScript, TypeScript, Angular (signals is the shit), React, Vue.js, Vite, CSS/SCSS, semantic HTML, responsive design, accessibility (a11y).  
+- **🔗 API & Data Integration:** RESTful APIs, Express.js, MySQL2, CRUD operations, parsing and transforming backend data for frontend use.  
+- **🤝 Collaboration & Process:** Agile methodologies, Pair Programming, testing mindset.  
+- **🎓 Education & Training:**  
+  - **Frontend Development, Medieinstitutet, Stockholm** (Sep 2024 – May 2026)  
+  - **Web Development Boot Camp, Technigo** (Jan – Jun 2023)  
+  - **MFA in Fine Arts (Textile), Konstfack, Stockholm** (Sep 2019 – Jun 2021)  
+- **🎨 Creative & Design Edge:** Translating visual and spatial design skills from textile art into digital interfaces.
